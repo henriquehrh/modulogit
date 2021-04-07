@@ -1,3 +1,1 @@
-Meu primeiro arquivo do git.
-Segunda moficiação
-Essa linha foi feita no master
+Essa foi a edição para envio do arquivo para o github
